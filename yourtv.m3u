@@ -3,8 +3,8 @@
 https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
 #EXTINF:-1,#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场
 https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
-#EXTINF:-1,#EXTINF:-1 tvg-id="劲爆体育" tvg-name="GreatSports Channel" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="其他",劲爆体育
-https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+#EXTINF:-1,#EXTINF:-1 tvg-id="劲爆体育" tvg-name="GreatSports Channel" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="Sport",劲爆体育
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="News",上海第一财经
 https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 #EXTINF:-1,#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="News",上视新闻
@@ -15,10 +15,10 @@ https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
 https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
 #EXTINF:-1,#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="其他",东方影视
 https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
-#EXTINF:-1,#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="其他",五星体育
-https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1,#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="Sport",五星体育
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="其他",上海外语
-https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
+http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="其他",全纪实
 https://live.v1.mk/api/bestv.php?id=qjshd8m/8000000
 #EXTINF:-1,#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="其他",生活时尚
