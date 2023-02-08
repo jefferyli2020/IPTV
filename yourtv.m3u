@@ -79,7 +79,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="News",BBC World News
 http://meumd.com:80/rootiptv/5176iXo7/126063
-#EXTINF:-1,#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="影视",Discoveryᴴᴰ
+#EXTINF:-1,#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="影视",Discoveryᴴᴰ
 http://185.59.223.102:8080/discovery/index.m3u8
-#EXTINF:-1,#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="影视",Nat Geographicᴴᴰ
+#EXTINF:-1,#EXTINF:-1 tvg-id="国家地理" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/国家地理.png" group-title="影视",Nat Geographicᴴᴰ
 http://185.59.223.102:8080/natgeo/index.m3u8
