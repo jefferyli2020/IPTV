@@ -2,4 +2,4 @@
 
 Collect from web as an archive.
 
-Don't use it ilegally.
+Don't use it illegally.
