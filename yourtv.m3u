@@ -3,10 +3,10 @@
 http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="上海",欢笑剧场频道
 http://39.137.49.76:8080/PLTV/88888888/224/3221226210/index.m3u8?
-#EXTINF:-1,#EXTINF:-1 tvg-id="劲爆体育" tvg-name="GreatSports Channel" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="Sport",劲爆体育频道
+#EXTINF:-1,#EXTINF:-1 tvg-id="劲爆体育" tvg-name="GreatSports Channel" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="Sports",劲爆体育频道
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="News",第一财经频道
-https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
+https://www.whalenas.com/bestv/index.php?id=dycjhd8m/8000000
 #EXTINF:-1,#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="News",新闻综合频道
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",都市频道
@@ -14,12 +14,12 @@ http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="上视纪实" tvg-name="上视纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",纪实人文频道
 http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="上海",东方影视频道
-https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
+http://39.136.172.100/hlsmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/index.m3u8?&encrypt=1
 #EXTINF:-1,#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="Sport",五星体育频道
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="上海",外语频道
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1,#EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="上海",全纪实
+#EXTINF:-1,#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="上海",乐游
 http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="上海",生活时尚频道
 http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
@@ -60,7 +60,7 @@ http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="News",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 #EXTINF:-1,#EXTINF:-1 tvg-id="SkyNewsInternational.uk" tvg-name="Sky News International" tvg-logo="https://epg.112114.xyz/logo/SKY_NEWS.png" group-title="News",Sky News International
-https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://epg.112114.xyz/logo/ABC_NEWS.png" group-title="News",ABC News Live
@@ -73,3 +73,13 @@ http://r.jdshipin.com/5DWJk
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://technode.com/wp-content/uploads/2008/11/besttv-logo.png" group-title="上海",看天下精选
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
+#EXTINF:-1,#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="影视",HBO 2台
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1,#EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://epg.112114.xyz/logo/亚洲新闻台.png" group-title="News",亚洲新闻台
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1,#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="News",BBC World News
+http://meumd.com:80/rootiptv/5176iXo7/126063
+#EXTINF:-1,#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="影视",Discoveryᴴᴰ
+http://185.59.223.102:8080/discovery/index.m3u8
+#EXTINF:-1,#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="影视",Nat Geographicᴴᴰ
+http://185.59.223.102:8080/natgeo/index.m3u8
