@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,#EXTINF:-1 tvg-id="东方卫视.cn" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="News",东方卫视
+#EXTINF:-1,#EXTINF:-1 tvg-id="东方卫.cn" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="News",东方卫视
 http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="Shows",欢笑剧场频道
 http://39.137.49.76:8080/PLTV/88888888/224/3221226210/index.m3u8?
