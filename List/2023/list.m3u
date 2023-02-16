@@ -2,6 +2,7 @@
 #EXTINF:-1, tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png" group-title="体育",五星体育频道
 http://lu1.cc/itv/php/bst5g.php?id=wxty
 https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+http://121.51.249.45/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
 #EXTINF:-1, tvg-id="劲爆体育" tvg-name="GreatSports Channel" tvg-logo="https://epg.112114.xyz/logo/%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2.png" group-title="体育",劲爆体育频道
 https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
 #EXTINF:-1, tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="新闻",东方卫视
@@ -14,6 +15,7 @@ http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1, tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E5%A4%96%E8%AF%AD.png" group-title="综合",外语频道
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1, tvg-id="上海纪实" tvg-name="上视纪实" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E7%BA%AA%E5%AE%9E.png" group-title="纪实",纪实人文频道
+https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
 http://39.135.138.58:18890/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1, tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="综合",生活时尚频道
 http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
@@ -58,6 +60,7 @@ https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 #EXTINF:-1, tvg-id="星卫HD电影" tvg-name="星卫HD电影" tvg-logo="https://epg.112114.xyz/logo/%E6%98%9F%E5%8D%ABHD%E7%94%B5%E5%BD%B1.png" group-title="电影",星光影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1,tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://epg.112114.xyz/logo/FASHIONTV.png" group-title="综合", FashionTV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="综合",CCTV-4K
 http://159.75.85.63:8765/telegram@feiyangdigital-cctv4k.m3u8
@@ -90,6 +93,7 @@ http://meumd.com:80/rootiptv/5176iXo7/126063
 #EXTINF:-1, tvg-id="SkyNewsInternational.uk" tvg-name="Sky News International" tvg-logo="https://i.imgur.com/15MNk0T.png" group-title="新闻",Sky News International
 https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1, tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="新闻",Fox News Channel
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1, tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="新闻",ABC News Live
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
@@ -97,6 +101,8 @@ http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1, tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="新闻",亚洲新闻台
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1, tvg-id="NewsmaxTV.us" tvg-name="Newsmax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="新闻",Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1, tvg-id="DiscoveryChannelEast.us" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="综合",Discoveryᴴᴰ
 http://185.59.223.102:8080/discovery/index.m3u8
 #EXTINF:-1,tvg-id="nowSports1.hk" tvg-name="Now Sports" tvg-logo="https://i.imgur.com/3BbhTQX.png" group-title="体育",Now Sports UHD HK-1
