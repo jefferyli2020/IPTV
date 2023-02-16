@@ -82,6 +82,10 @@ http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 #EXTINF:-1, tvg-id="Pearl.hk" tvg-name="Pearl" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="综合",明珠台
 http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
+#EXTINF:-1, tvg-id="TVBNewsChannel.hk" tvg-name="TVB News Channel" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="综合",TVB無綫新聞台
+https://tvp22.sky4k.top/index1.php
+#EXTINF:-1, tvg-id="ViuTVsix.hk" tvg-name="TVB News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="综合",ViuTVsix
+https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86.png" group-title="卫视",星空卫视
 http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8 
 #EXTINF:-1, tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="新闻",CNN
