@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png" group-title="体育",五星体育频道
 https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1, tvg-id="劲爆体育" tvg-name="GreatSports Channel" tvg-logo="https://epg.112114.xyz/logo/%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2.png" group-title="体育",劲爆体育频道
 https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1, tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="新闻",东方卫视
 http://125.210.152.19:9120/live/hzgq-dftvgq-h264.m3u8
 https://live.v1.mk/api/ghyx.php?id=DongFangHD_6000
