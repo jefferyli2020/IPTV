@@ -5,17 +5,22 @@ https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1, tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="新闻",东方卫视
+http://125.210.152.19:9120/live/hzgq-dftvgq-h264.m3u8
 https://live.v1.mk/api/ghyx.php?id=DongFangHD_6000
 #EXTINF:-1, tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="新闻",新闻综合频道
 https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 #EXTINF:-1, tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E9%83%BD%E5%B8%82.png" group-title="综合",都市频道
+http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8?zshangd
 https://live.v1.mk/api/bestv.php?id=dshd8m/8000000
 #EXTINF:-1, tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E5%A4%96%E8%AF%AD.png" group-title="综合",外语频道
+http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
 #EXTINF:-1, tvg-id="上海纪实" tvg-name="上视纪实" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E7%BA%AA%E5%AE%9E.png" group-title="纪实",纪实人文频道
 https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
+http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1, tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="综合",生活时尚频道
 https://live.v1.mk/api/bestv.php?id=shss8m/8000000
+http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1, tvg-id="CCTV5" tvg-name="CCTV-5 体育" tvg-logo="https://i.imgur.com/EqURkoF.png" group-title="体育",CCTV-5 体育
 https://live.v1.mk/api/ghyx.php?id=CCTV5HD_6000
 https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
@@ -23,15 +28,19 @@ http://live.cooltv.top/tv/aishang.php?id=cctv5hd
 #EXTINF:-1, tvg-id="CCTV5+" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://i.imgur.com/uW1b1KO.png" group-title="体育",CCTV-5+ 体育赛事
 https://live.v1.mk/api/ghyx.php?id=CCTV5plusHD_6000
 https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
+http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
 #EXTINF:-1, tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://i.imgur.com/YgrsXQJ.png" group-title="体育",CCTV-16 奥林匹克
 https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
 #EXTINF:-1, tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/%E6%96%B0%E8%A7%86%E8%A7%89.png" group-title="足球",新视觉
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
 #EXTINF:-1, tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83.png" group-title="足球",魅力足球频道
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
 #EXTINF:-1, tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/%E8%B6%B3%E7%90%83%E9%A2%91%E9%81%93.png" group-title="足球",足球频道
 https://live.v1.mk/api/ghyx.php?id=ZuQiuHD_6000
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="体育",广东体育
+http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 http://159.75.85.63:8765/telegram@feiyangdigital-gdty.m3u8
 #EXTINF:-1 tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育" tvg-logo="https://epg.112114.xyz/logo/%E5%92%AA%E5%92%9524%E5%B0%8F%E6%97%B6%E4%BD%93%E8%82%B2.png" group-title="体育",咪咕24小时体育台
 http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?ProgramID=&encrypt=
@@ -51,6 +60,8 @@ https://live.v1.mk/api/ghyx.php?id=CHCHD2_6000
 http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 #EXTINF:-1, tvg-id="超高清电影" tvg-name="超高清电影" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY%E7%94%B5%E5%BD%B1.png" group-title="电影",超高清电影
 http://r.jdshipin.com/5DWJk
+#EXTINF:-1,tvg-id="HBOHITS" tvg-name="HBOHITS" tvg-logo="https://epg.112114.xyz/logo/HBOHITS.png" group-title="电影",HBOHits
+http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
 #EXTINF:-1, tvg-id="金马影院" tvg-name="金马影院" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY%E7%94%B5%E5%BD%B1.png" group-title="电影",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1, tvg-id="经典功夫台" tvg-name="经典功夫台" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY%E7%94%B5%E5%BD%B1.png" group-title="电影",经典功夫台
@@ -71,6 +82,7 @@ https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E7%88%B1%E4%B8%8A4K.png" group-title="综合",爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1, tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/%E4%B9%90%E6%B8%B8.png" group-title="纪实",乐游
+http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 https://live.v1.mk/api/ghyx.php?id=QuanJiShiHD_6000
 #EXTINF:-1,tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://epg.112114.xyz/logo/%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="纪实",纪实科教
 http://downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
@@ -83,13 +95,19 @@ http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1, tvg-id="PhoenixInfoNewsChannel.hk" tvg-name="Phoenix InfoNews Channel" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="新闻",凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1, tvg-id="Jade.hk" tvg-name="Jade" tvg-logo="https://i.imgur.com/ooG96w8.png" group-title="综合",翡翠台
-http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
+http://r.jdshipin.com/qClQf
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="综合",华丽翡翠台
+http://r.jdshipin.com/thuYX
 #EXTINF:-1, tvg-id="Pearl.hk" tvg-name="Pearl" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="综合",明珠台
 http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
+#EXTINF:-1,tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="综合",Channel [V]
+http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194
 #EXTINF:-1, tvg-id="TVBNewsChannel.hk" tvg-name="TVB News Channel" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="综合",TVB無綫新聞台
 https://tvp22.sky4k.top/index1.php
-#EXTINF:-1, tvg-id="ViuTVsix.hk" tvg-name="TVB News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="综合",ViuTVsix
-https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="综合",VIUTV
+http://r.jdshipin.com/vSJvl
+#EXTINF:-1,tvg-id="時裝頻道" tvg-name="時裝頻道" tvg-logo="https://epg.112114.xyz/logo/時裝頻道.png" group-title="综合",時裝頻道
+http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 #EXTINF:-1, tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="新闻",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -115,12 +133,16 @@ http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117957
 #EXTINF:-1, tvg-id="NationalGeographicEast.us" tvg-name="国家地理" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="综合",Nat Geographicᴴᴰ
 http://185.59.223.102:8080/natgeo/index.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",浙江卫视
+http://125.210.152.19:9120/live/hzgq-zjwsgq-h264.m3u8
 https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",湖南卫视
+http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8
 https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",山东卫视
+http://125.210.152.19:9120/live/hzgq-sdwsgq-h264.m3u8
 https://live.v1.mk/api/bestv.php?id=sdws8m/8000000
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="卫视",安徽卫视
+http://125.210.152.19:9120/live/hzgq-ahwsgq-h264.m3u8
 https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000
 #EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/%E5%B9%BF%E4%B8%9C%E7%BB%BC%E8%89%BA.png" group-title="卫视",广东综艺
 http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
@@ -206,6 +228,7 @@ http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
 http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
 #EXTINF:-1, tvg-id="求索纪录" tvg-name="求索纪录" group-title="纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/qsjl.png",求索纪录
 http://39.135.7.132:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
 #EXTINF:-1, tvg-id="求索动物" tvg-name="求索动物" group-title="纪实" group-title="纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/qsdw.png",求索动物
 http://39.135.7.132:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1, tvg-id="求索科学" tvg-name="求索科学" group-title="纪实" group-title="纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/qskx.png",求索科学
