@@ -64,6 +64,7 @@ https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
 https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 #EXTINF:-1, tvg-id="星卫HD电影" tvg-name="星卫HD电影" tvg-logo="https://epg.112114.xyz/logo/%E6%98%9F%E5%8D%ABHD%E7%94%B5%E5%BD%B1.png" group-title="电影",星光影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="综合",CCTV-4K
 https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 #EXTINF:-1 tvg-name="CCTV8K测试" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K/8K-IPV6",CCTV8K测试
@@ -76,26 +77,11 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3u8?fmt=ts2hls
 #EXTINF:-1, tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://epg.112114.xyz/logo/%E7%9C%8B%E5%A4%A9%E4%B8%8B%E7%B2%BE%E9%80%89.png" group-title="新闻",看天下精选
 https://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000
+
 #EXTINF:-1, tvg-id="PhoenixChineseChannel.hk" tvg-name="Phoenix Chinese Channel" tvg-logo="https://i.imgur.com/rwY7FHT.png" group-title="新闻",凤凰中文
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 #EXTINF:-1, tvg-id="PhoenixInfoNewsChannel.hk" tvg-name="Phoenix InfoNews Channel" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="新闻",凤凰资讯
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1, tvg-id="Jade.hk" tvg-name="Jade" tvg-logo="https://i.imgur.com/ooG96w8.png" group-title="综合",翡翠台
-https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1, tvg-id="Jade.hk" tvg-name="Jade" tvg-logo="https://i.imgur.com/ooG96w8.png" group-title="综合",翡翠台粤语
-https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="综合",华丽翡翠台
-http://23.237.10.66:16410
-#EXTINF:-1, tvg-id="Pearl.hk" tvg-name="Pearl" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="综合",明珠台
-https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1,tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="综合",Channel [V]
-http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194
-#EXTINF:-1, tvg-id="TVBNewsChannel.hk" tvg-name="TVB News Channel" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="综合",TVB無綫新聞台
-https://tvp22.sky4k.top/index1.php
-#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="综合",VIUTV
-http://r.jdshipin.com/vSJvl
-#EXTINF:-1 ,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="综合",J2台
-https://cdn.hklive.tv/xxxx/82/index.m3u8
 
 #EXTINF:-1, tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="新闻",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
@@ -213,37 +199,23 @@ http://gslbserv.itv.cmvideo.cn:80/6000000006000130630/index.m3u8?channel-id=wasu
 http://gslbserv.itv.cmvideo.cn:80/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
 #EXTINF:-1 group-title="IPV6•数字",IPTV高清院线「IPV6」
-http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000009/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPV6•数字",IPTV高清院线「IPV6」
 http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000009/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPV6•数字",IPTV古装剧场「IPV6」
-http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000010/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPV6•数字",IPTV古装剧场「IPV6」
 http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000010/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPV6•数字",IPTV家庭剧场「IPV6」
 http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000011/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPV6•数字",IPTV家庭剧场「IPV6」
-http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000011/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPV6•数字",IPTV经典剧场「IPV6」
-http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000012/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPV6•数字",IPTV经典剧场「IPV6」
 http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000012/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPV6•数字",IPTV抗战剧场「IPV6」
-http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000007/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPV6•数字",IPTV抗战剧场「IPV6」
 http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000007/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPV6•数字",IPTV芒果好看「IPV6」
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001026000000099174/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPV6•数字",IPTV芒果互娱「IPV6」
-http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001025000000196970/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPV6•数字",IPTV芒果互娱「IPV6」
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196970/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPV6•数字",IPTV芒果热播「IPV6」
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000292438/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="IPV6•数字",IPTV芒果热剧「IPV6」
 http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001026000000099232/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPV6•数字",IPTV芒果热剧「IPV6」
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001026000000099232/main.m3u8?IASHttpSessionId=OTT
 
 #EXTINF:-1, tvg-id="求索纪录" tvg-name="求索纪录" group-title="纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/qsjl.png",求索纪录
 http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
