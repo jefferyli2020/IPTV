@@ -211,6 +211,40 @@ http://gslbserv.itv.cmvideo.cn:80/6000000006000050630/index.m3u8?channel-id=wasu
 http://gslbserv.itv.cmvideo.cn:80/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
 #EXTINF:-1, tvg-id="IHOT爱院线" tvg-name="IHOT爱院线" tvg-logo="https://epg.112114.xyz/logo/IHOT%E7%88%B1%E9%99%A2%E7%BA%BF.png" group-title="iTV",爱院线
 http://gslbserv.itv.cmvideo.cn:80/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+
+#EXTINF:-1 group-title="IPV6•数字",IPTV高清院线「IPV6」
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000009/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPV6•数字",IPTV高清院线「IPV6」
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000009/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPV6•数字",IPTV古装剧场「IPV6」
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000010/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPV6•数字",IPTV古装剧场「IPV6」
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000010/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPV6•数字",IPTV家庭剧场「IPV6」
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000011/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPV6•数字",IPTV家庭剧场「IPV6」
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000011/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPV6•数字",IPTV经典剧场「IPV6」
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000012/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPV6•数字",IPTV经典剧场「IPV6」
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000012/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPV6•数字",IPTV抗战剧场「IPV6」
+http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000007/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPV6•数字",IPTV抗战剧场「IPV6」
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000007/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPV6•数字",IPTV芒果好看「IPV6」
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001026000000099174/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPV6•数字",IPTV芒果互娱「IPV6」
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001025000000196970/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPV6•数字",IPTV芒果互娱「IPV6」
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196970/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPV6•数字",IPTV芒果热播「IPV6」
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000292438/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPV6•数字",IPTV芒果热剧「IPV6」
+http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001026000000099232/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="IPV6•数字",IPTV芒果热剧「IPV6」
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001026000000099232/main.m3u8?IASHttpSessionId=OTT
+
 #EXTINF:-1, tvg-id="求索纪录" tvg-name="求索纪录" group-title="纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/qsjl.png",求索纪录
 http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 #EXTINF:-1, tvg-id="求索动物" tvg-name="求索动物" group-title="纪实" group-title="纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/qsdw.png",求索动物
