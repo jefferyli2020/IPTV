@@ -81,17 +81,21 @@ http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/i
 #EXTINF:-1, tvg-id="PhoenixInfoNewsChannel.hk" tvg-name="Phoenix InfoNews Channel" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="新闻",凤凰资讯
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 #EXTINF:-1, tvg-id="Jade.hk" tvg-name="Jade" tvg-logo="https://i.imgur.com/ooG96w8.png" group-title="综合",翡翠台
-http://r.jdshipin.com/qClQf
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1, tvg-id="Jade.hk" tvg-name="Jade" tvg-logo="https://i.imgur.com/ooG96w8.png" group-title="综合",翡翠台粤语
+https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="综合",华丽翡翠台
-http://r.jdshipin.com/thuYX
+http://23.237.10.66:16410
 #EXTINF:-1, tvg-id="Pearl.hk" tvg-name="Pearl" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="综合",明珠台
-http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
+https://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1,tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="综合",Channel [V]
 http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194
 #EXTINF:-1, tvg-id="TVBNewsChannel.hk" tvg-name="TVB News Channel" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="综合",TVB無綫新聞台
 https://tvp22.sky4k.top/index1.php
 #EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="综合",VIUTV
 http://r.jdshipin.com/vSJvl
+#EXTINF:-1 ,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="综合",J2台
+https://cdn.hklive.tv/xxxx/82/index.m3u8
 
 #EXTINF:-1, tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="新闻",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
@@ -101,14 +105,13 @@ http://meumd.com:80/rootiptv/5176iXo7/126063
 #EXTINF:-1, tvg-id="SkyNewsInternational.uk" tvg-name="Sky News International" tvg-logo="https://i.imgur.com/15MNk0T.png" group-title="新闻",Sky News International
 https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1, tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="新闻",Fox News Channel
-http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="新闻",ABC News Live
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1, tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="新闻",NBC News Now
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1, tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="新闻",亚洲新闻台
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1, tvg-id="NewsmaxTV.us" tvg-name="Newsmax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="新闻",Newsmax TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
