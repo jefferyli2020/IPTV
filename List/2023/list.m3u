@@ -26,11 +26,11 @@ http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1314BESTVSMGSMG9/inde
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8?
 
 #EXTINF:-1, tvg-id="CCTV5" tvg-name="CCTV-5 体育" tvg-logo="https://i.imgur.com/EqURkoF.png" group-title="体育",CCTV-5 体育
-http://[2409:8087:1e03:21::10]:6610/cms001/ch00000090990000001187/index.m3u8?
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8?
 #EXTINF:-1, tvg-id="CCTV5+" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://i.imgur.com/uW1b1KO.png" group-title="体育",CCTV-5+ 体育赛事
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225706/2/index.m3u8
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000132/1.m3u8
 #EXTINF:-1, tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://i.imgur.com/YgrsXQJ.png" group-title="体育",CCTV-16 奥林匹克
-http://[2409:8087:1e03:21::10]:6610/cms001/ch00000090990000001258/index.m3u8?
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8?
 
 #EXTINF:-1, tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/%E6%96%B0%E8%A7%86%E8%A7%89.png" group-title="足球",新视觉
 https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
