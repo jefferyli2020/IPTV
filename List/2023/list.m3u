@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png" group-title="体育",五星体育频道
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
+#EXTINF:-1, tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png" group-title="体育",五星体育频道
 https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1, tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png" group-title="体育",五星体育频道
 http://jiexi.bulisite.top/bestv.php?id=wxtyhd8m/8000000
-
 #EXTINF:-1, tvg-id="劲爆体育" tvg-name="GreatSports Channel" tvg-logo="https://epg.112114.xyz/logo/%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2.png" group-title="体育",劲爆体育频道
 https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1, tvg-id="劲爆体育" tvg-name="GreatSports Channel" tvg-logo="https://epg.112114.xyz/logo/%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2.png" group-title="体育",劲爆体育频道
 http://jiexi.bulisite.top/bestv.php?id=jbtyhd8m/8000000
 
 #EXTINF:-1, tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="新闻",东方卫视
