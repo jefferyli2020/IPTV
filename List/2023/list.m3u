@@ -27,6 +27,11 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8?
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000132/1.m3u8
 #EXTINF:-1, tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://i.imgur.com/YgrsXQJ.png" group-title="体育",CCTV-16 奥林匹克
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
+http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
+http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
+
 
 #EXTINF:-1, tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/%E6%96%B0%E8%A7%86%E8%A7%89.png" group-title="足球",新视觉
 https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
@@ -220,24 +225,20 @@ http://gslbserv.itv.cmvideo.cn:80/6000000006000130630/index.m3u8?channel-id=wasu
 #EXTINF:-1, tvg-id="IHOT爱院线" tvg-name="IHOT爱院线" tvg-logo="https://epg.112114.xyz/logo/IHOT%E7%88%B1%E9%99%A2%E7%BA%BF.png" group-title="iTV",爱院线
 http://gslbserv.itv.cmvideo.cn:80/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
-#EXTINF:-1 group-title="IPV6•数字",IPTV高清院线「IPV6」
-http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000009/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPV6•数字",IPTV古装剧场「IPV6」
-http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000010/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPV6•数字",IPTV家庭剧场「IPV6」
-http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000011/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPV6•数字",IPTV经典剧场「IPV6」
-http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000012/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPV6•数字",IPTV抗战剧场「IPV6」
-http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000007/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPV6•数字",IPTV芒果好看「IPV6」
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001026000000099174/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPV6•数字",IPTV芒果互娱「IPV6」
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001025000000196970/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPV6•数字",IPTV芒果热播「IPV6」
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000292438/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 group-title="IPV6•数字",IPTV芒果热剧「IPV6」
-http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001026000000099232/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="体育",足球频道
+https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+#EXTINF:-1,tvg-id="咪咕-1" tvg-name="咪咕-1" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="体育",咪咕-1
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226235/2/index.m3u8
+#EXTINF:-1,tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="体育",咪咕-2
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
+#EXTINF:-1,tvg-id="咪咕-3" tvg-name="咪咕-3" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="体育",咪咕-3
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226243/2/index.m3u8
+#EXTINF:-1,tvg-id="咪咕-4" tvg-name="咪咕-4" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="体育",咪咕-4
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226235/index.m3u8
+#EXTINF:-1,tvg-id="咪咕-5" tvg-name="咪咕-5" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="体育",咪咕-5
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226238/index.m3u8
+#EXTINF:-1,tvg-id="咪咕-7" tvg-name="咪咕-7" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="体育",咪咕-7
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226243/index.m3u8
 
 #EXTINF:-1, tvg-id="求索纪录" tvg-name="求索纪录" group-title="纪实" tvg-logo="http://n.ysyz.top:99/buyaolian/qsjl.png",求索纪录
 http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
