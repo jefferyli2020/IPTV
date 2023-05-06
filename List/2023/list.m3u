@@ -58,19 +58,15 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 #EXTINF:-1, tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png" group-title="电影",黑莓电影
 http://39.134.115.221:8080/PLTV/88888910/224/3221225769/index.m3u8
 #EXTINF:-1, tvg-id="超高清电影" tvg-name="超高清电影" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY%E7%94%B5%E5%BD%B1.png" group-title="电影",超高清电影
-https://tv.fanmingming.com/?id=emdy4k_8000
-#EXTINF:-1, tvg-id="金马影院" tvg-name="金马影院" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY%E7%94%B5%E5%BD%B1.png" group-title="电影",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1, tvg-id="经典功夫台" tvg-name="经典功夫台" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY%E7%94%B5%E5%BD%B1.png" group-title="电影",经典功夫台
-https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 #EXTINF:-1, tvg-id="华语电影HD" tvg-name="华语电影HD" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%8E%E8%AF%AD%E5%BD%B1%E9%99%A2.png" group-title="电影",华语影院
 https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
 #EXTINF:-1,tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://epg.112114.xyz/logo/%E6%98%9F%E5%85%89%E5%BD%B1%E9%99%A2.png" group-title="电影",星光影院
 https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
 #EXTINF:-1,tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://epg.112114.xyz/logo/%E5%85%A8%E7%90%83%E5%A4%A7%E7%89%87.png" group-title="电影",全球大片
 https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
-#EXTINF:-1, tvg-id="星卫HD电影" tvg-name="星卫HD电影" tvg-logo="https://epg.112114.xyz/logo/%E6%98%9F%E5%8D%ABHD%E7%94%B5%E5%BD%B1.png" group-title="电影",星光影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1, tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://i.imgur.com/B1aNrlL.png" group-title="电影",星空卫视
+http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 
 #EXTINF:-1, tvg-id="BesTV 4K 电视剧" tvg-name="BesTV 4K 电视剧" tvg-logo=''" group-title="BesTV",BesTV 4K 电视剧
 http://23.131.158.27:4022/udp/239.45.1.9:5140
@@ -110,24 +106,32 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226248/index.m3u8
 #EXTINF:-1, tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="新闻",凤凰资讯
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8
+#EXTINF:-1, tvg-id="Pearl.hk" tvg-name="Pearl" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="新闻",「HK」明珠台
+http://shazui.8866.org:800/hls/84/index.m3u8
+#EXTINF:-1, tvg-id="Jade.hk" tvg-name="Jade" tvg-logo="https://i.imgur.com/ooG96w8.png" group-title="新闻",翡翠台
+http://r.jdshipin.com/62WM7
 
 #EXTINF:-1, tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="新闻",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1, tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="新闻",BBC World News
 http://meumd.com:80/rootiptv/5176iXo7/126063
+#EXTINF:-1,BBC America
+https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 #EXTINF:-1, tvg-id="SkyNewsInternational.uk" tvg-name="Sky News International" tvg-logo="https://i.imgur.com/15MNk0T.png" group-title="新闻",Sky News International
-https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1, tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="新闻",Fox News Channel
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="新闻",ABC News Live
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1, tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="新闻",NBC News Now
-http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1, tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="新闻",亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1, tvg-id="NewsmaxTV.us" tvg-name="Newsmax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="新闻",Newsmax TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1, tvg-id="TVBS.tw" tvg-name="TVBS" tvg-logo="https://i.imgur.com/4RvCHWP.png" group-title="新闻",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
 #EXTINF:-1 tvg-id="41295" tvg-name="History East HD East | US (i)" tvg-logo="https://panel.budtv-ultra.com/posters/1608260163132.png" group-title="Estados Unidos",History East HD East | US (i)
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/41295
