@@ -15,7 +15,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8?
 #EXTINF:-1, tvg-id="上海纪实" tvg-name="上视纪实" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E7%BA%AA%E5%AE%9E.png" group-title="纪实",纪实人文频道
 http://[2409:8087:1e03:21::10]:6610/cms001/ch00000090990000001019/index.m3u8?
 #EXTINF:-1, tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="综合",生活时尚频道
-http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
+http://[2409:8087:1e03:21::10]:6610/cms001/ch00000090990000001199/index.m3u8?
 #EXTINF:-1, tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F.png" group-title="新闻",第一财经频道
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8?
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经",东方财经 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F.png" group-title="新闻",东方财经
