@@ -27,15 +27,11 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8?
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000132/1.m3u8
 #EXTINF:-1, tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://i.imgur.com/YgrsXQJ.png" group-title="体育",CCTV-16 奥林匹克
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="体育",广东体育
-http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
 
 #EXTINF:-1, tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/%E6%96%B0%E8%A7%86%E8%A7%89.png" group-title="足球",新视觉
 https://live.metshop.top/bestv.php?id=xsjhd8m/8000000
 #EXTINF:-1, tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83.png" group-title="足球",足球频道
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
-#EXTINF:-1 tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="其他",足球高清 8M
-https://live.metshop.top/bestv.php?id=zqpd8m/8000000
 
 #EXTINF:-1, tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA.png" group-title="综合",欢笑剧场频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -52,10 +48,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影",CHC家庭影院
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1, tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png" group-title="电影",黑莓电影
-http://39.134.115.221:8080/PLTV/88888910/224/3221225769/index.m3u8
-#EXTINF:-1, tvg-id="超高清电影" tvg-name="超高清电影" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY%E7%94%B5%E5%BD%B1.png" group-title="电影",超高清电影
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1, tvg-id="华语电影HD" tvg-name="华语电影HD" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%8E%E8%AF%AD%E5%BD%B1%E9%99%A2.png" group-title="电影",华语影院
 https://live.metshop.top/bestv.php?id=hyyy8m/8000000
 #EXTINF:-1,tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://epg.112114.xyz/logo/%E6%98%9F%E5%85%89%E5%BD%B1%E9%99%A2.png" group-title="电影",星光影院
@@ -103,8 +95,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1, tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="新闻",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1, tvg-id="Pearl.hk" tvg-name="Pearl" tvg-logo="https://i.imgur.com/UPdcMkW.png" group-title="新闻",「HK」明珠台
-http://shazui.8866.org:800/hls/84/index.m3u8
 #EXTINF:-1, tvg-id="Jade.hk" tvg-name="Jade" tvg-logo="https://i.imgur.com/ooG96w8.png" group-title="新闻",翡翠台
 http://r.jdshipin.com/62WM7
 
