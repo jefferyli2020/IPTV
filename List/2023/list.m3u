@@ -25,9 +25,9 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8?
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8?
 #EXTINF:-1, tvg-id="CCTV5+" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://i.imgur.com/uW1b1KO.png" group-title="体育",CCTV-5+ 体育赛事
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000132/1.m3u8
-#EXTINF:-1, tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://i.imgur.com/YgrsXQJ.png" group-title="体育",CCTV-16 奥林匹克
+#EXTINF:-1, tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://i.imgur.com/YgrsXQJ.png" group-title="体育",CCTV-16 奥林匹克4K
 http://[2409:8087:1e03:21::10]:6610/cms001/ch00000090990000001258/index.m3u8?
-#EXTINF:-1, tvg-id="BesTV 4K 电影" tvg-name="体育" tvg-logo=''" group-title="BesTV",BesTV 体育
+#EXTINF:-1, tvg-id="BesTV 体育" tvg-name="体育" tvg-logo="" group-title="BesTV",BesTV 体育
 http://[2409:8087:1e03:21::10]:6610/cms001/ch00000090990000001359/index.m3u8?
 
 #EXTINF:-1, tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/%E6%96%B0%E8%A7%86%E8%A7%89.png" group-title="足球",新视觉
@@ -59,13 +59,13 @@ https://live.metshop.top/bestv.php?id=qqdp8m/8000000
 #EXTINF:-1, tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://i.imgur.com/B1aNrlL.png" group-title="电影",星空卫视
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 
-#EXTINF:-1, tvg-id="BesTV 4K 电视剧" tvg-name="BesTV 4K 电视剧" tvg-logo=''" group-title="BesTV",BesTV 4K 电视剧
+#EXTINF:-1, tvg-id="BesTV 4K 电视剧" tvg-name="BesTV 4K 电视剧" tvg-logo="" group-title="BesTV",BesTV 4K 电视剧
 http://23.131.218.58:4022/udp/239.45.1.9:5140
-#EXTINF:-1, tvg-id="BesTV 4K 电影" tvg-name="BesTV 4K 电影" tvg-logo=''" group-title="BesTV",BesTV 4K 电影
+#EXTINF:-1, tvg-id="BesTV 4K 电影" tvg-name="BesTV 4K 电影" tvg-logo="" group-title="BesTV",BesTV 4K 电影
 http://23.131.218.58:4022/udp/239.45.1.10:5140
-#EXTINF:-1, tvg-id="BesTV 4K 卡通" tvg-name="BesTV 4K 卡通" tvg-logo=''" group-title="BesTV",BesTV 4K 卡通
+#EXTINF:-1, tvg-id="BesTV 4K 卡通" tvg-name="BesTV 4K 卡通" tvg-logo="" group-title="BesTV",BesTV 4K 卡通
 http://23.131.218.58:4022/udp/239.45.1.11:5140
-#EXTINF:-1, tvg-id="BesTV 4K 测试" tvg-name="BesTV 4K 测试" tvg-logo=''" group-title="BesTV",BesTV 4K 测试
+#EXTINF:-1, tvg-id="BesTV 4K 测试" tvg-name="BesTV 4K 测试" tvg-logo="" group-title="BesTV",BesTV 4K 测试
 http://23.131.218.58:4022/udp/239.45.1.21:5140
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="综合",CCTV-4K
 https://live.metshop.top/bestv.php?id=cctv4k/15000000
@@ -83,15 +83,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3
 http://[2409:8087:1e03:21::10]:6610/cms001/ch00000090990000001230/index.m3u8?
 #EXTINF:-1, tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://epg.112114.xyz/logo/%E7%9C%8B%E5%A4%A9%E4%B8%8B%E7%B2%BE%E9%80%89.png" group-title="新闻",看天下精选
 https://live.metshop.top/bestv.php?id=ktxjx8m/8000000
-
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",浙江卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",湖南卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",山东卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="卫视",安徽卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1, tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://i.imgur.com/rwY7FHT.png" group-title="新闻",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
@@ -437,29 +428,29 @@ http://23.131.218.58:4022/udp/239.45.0.32:5140
 http://23.131.218.58:4022/udp/239.45.0.33:5140
 #EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
 http://23.131.218.58:4022/udp/239.45.1.1:5140
-#EXTINF:-1, tvg-id="BesTV Demo 4K" tvg-name="BesTV Demo 4K" tvg-logo=''" group-title="BesTV",BesTV Demo 4K
+#EXTINF:-1, tvg-id="BesTV Demo 4K" tvg-name="BesTV Demo 4K" tvg-logo="" group-title="BesTV",BesTV Demo 4K
 http://23.131.218.58:4022/udp/239.45.1.42:5140
-#EXTINF:-1, tvg-id="BesTV Demo 4K" tvg-name="BesTV Demo 4K" tvg-logo=''" group-title="BesTV",BesTV Demo 4K
+#EXTINF:-1, tvg-id="BesTV Demo 4K" tvg-name="BesTV Demo 4K" tvg-logo="" group-title="BesTV",BesTV Demo 4K
 http://23.131.218.58:4022/udp/239.45.1.108:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo=''" group-title="BesTV",BesTV Demo HD
+#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
 http://23.131.218.58:4022/udp/239.45.3.53:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo=''" group-title="BesTV",BesTV Demo HD
+#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
 http://23.131.218.58:4022/udp/239.45.3.54:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo=''" group-title="BesTV",BesTV Demo HD
+#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
 http://23.131.218.58:4022/udp/239.45.3.55:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo=''" group-title="BesTV",BesTV Demo HD
+#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
 http://23.131.218.58:4022/udp/239.45.3.88:5140
-#EXTINF:-1, tvg-id="BesTV Demo 4K" tvg-name="BesTV Demo 4K" tvg-logo=''" group-title="BesTV",BesTV Demo 4K
+#EXTINF:-1, tvg-id="BesTV Demo 4K" tvg-name="BesTV Demo 4K" tvg-logo="" group-title="BesTV",BesTV Demo 4K
 http://23.131.218.58:4022/udp/239.45.3.107:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo=''" group-title="BesTV",BesTV Demo HD
+#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
 http://23.131.218.58:4022/udp/239.45.3.108:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo=''" group-title="BesTV",BesTV Demo HD
+#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
 http://23.131.218.58:4022/udp/239.45.3.137:5140
-#EXTINF:-1, tvg-id="BesTV Live HD" tvg-name="BesTV Live HD" tvg-logo=''" group-title="BesTV",BesTV Live HD
+#EXTINF:-1, tvg-id="BesTV Live HD" tvg-name="BesTV Live HD" tvg-logo="" group-title="BesTV",BesTV Live HD
 http://23.131.218.58:4022/udp/239.45.3.138:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo=''" group-title="BesTV",BesTV Demo HD
+#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
 http://23.131.218.58:4022/udp/239.45.3.157:5140
-#EXTINF:-1, tvg-id="BesTV Live HD" tvg-name="BesTV Live HD" tvg-logo=''" group-title="BesTV",BesTV Live HD
+#EXTINF:-1, tvg-id="BesTV Live HD" tvg-name="BesTV Live HD" tvg-logo="" group-title="BesTV",BesTV Live HD
 http://23.131.218.58:4022/udp/239.45.3.215:5140
-#EXTINF:-1, tvg-id="BesTV Live HD" tvg-name="BesTV Live HD" tvg-logo=''" group-title="BesTV",BesTV Live HD
+#EXTINF:-1, tvg-id="BesTV Live HD" tvg-name="BesTV Live HD" tvg-logo="" group-title="BesTV",BesTV Live HD
 http://23.131.218.58:4022/udp/239.45.3.216:5140
