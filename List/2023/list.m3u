@@ -31,7 +31,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000132/1.m3u8
 #EXTINF:-1, tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://i.imgur.com/YgrsXQJ.png" group-title="体育",CCTV-16 奥林匹克
 http://[2409:8087:1e03:21::10]:6610/cms001/ch00000090990000001258/index.m3u8?
-#EXTINF:-1, tvg-id="BesTV 4K 电影" tvg-name="体育" tvg-logo=''" group-title="BesTV",BesTV 体育
+#EXTINF:-1, tvg-id="BesTV 4K 电影" tvg-name="BesTV 体育" tvg-logo=''" group-title="BesTV",BesTV 体育
 http://[2409:8087:1e03:21::10]:6610/cms001/ch00000090990000001359/index.m3u8?
 #EXTINF:-1 ,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东",广东体育
 http://r.jdshipin.com/LiYdg
@@ -544,30 +544,6 @@ http://[240e:389:1003:e600::1]:4022/udp/239.45.3.75:5140
 http://[240e:389:1003:e600::1]:4022/udp/239.45.3.207:5140
 
 #EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
-http://[240e:389:1003:e600::1]:4022/udp/239.45.0.22:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
-http://[240e:389:1003:e600::1]:4022/udp/239.45.0.23:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
-http://[240e:389:1003:e600::1]:4022/udp/239.45.0.24:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
-http://[240e:389:1003:e600::1]:4022/udp/239.45.0.25:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
-http://[240e:389:1003:e600::1]:4022/udp/239.45.0.26:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
-http://[240e:389:1003:e600::1]:4022/udp/239.45.0.27:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
-http://[240e:389:1003:e600::1]:4022/udp/239.45.0.28:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
-http://[240e:389:1003:e600::1]:4022/udp/239.45.0.29:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
-http://[240e:389:1003:e600::1]:4022/udp/239.45.0.30:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
-http://[240e:389:1003:e600::1]:4022/udp/239.45.0.31:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
-http://[240e:389:1003:e600::1]:4022/udp/239.45.0.32:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
-http://[240e:389:1003:e600::1]:4022/udp/239.45.0.33:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo="" group-title="BesTV",BesTV Demo HD
 http://[240e:389:1003:e600::1]:4022/udp/239.45.1.1:5140
 #EXTINF:-1, tvg-id="BesTV Demo 4K" tvg-name="BesTV Demo 4K" tvg-logo=''" group-title="BesTV",BesTV Demo 4K
 http://[240e:389:1003:e600::1]:4022/udp/239.45.1.42:5140
@@ -583,8 +559,6 @@ http://[240e:389:1003:e600::1]:4022/udp/239.45.3.55:5140
 http://[240e:389:1003:e600::1]:4022/udp/239.45.3.88:5140
 #EXTINF:-1, tvg-id="BesTV Demo 4K" tvg-name="BesTV Demo 4K" tvg-logo=''" group-title="BesTV",BesTV Demo 4K
 http://[240e:389:1003:e600::1]:4022/udp/239.45.3.107:5140
-#EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo=''" group-title="BesTV",BesTV Demo HD
-http://[240e:389:1003:e600::1]:4022/udp/239.45.3.108:5140
 #EXTINF:-1, tvg-id="BesTV Demo HD" tvg-name="BesTV Demo HD" tvg-logo=''" group-title="BesTV",BesTV Demo HD
 http://[240e:389:1003:e600::1]:4022/udp/239.45.3.137:5140
 #EXTINF:-1, tvg-id="BesTV Live HD" tvg-name="BesTV Live HD" tvg-logo=''" group-title="BesTV",BesTV Live HD
