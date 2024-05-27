@@ -55,9 +55,11 @@ https://live.metshop.top/bestv.php?id=rmjc8m/8000000
 #EXTINF:-1, tvg-id="CHC高清电影" tvg-name="CHC HD" tvg-logo="https://i.imgur.com/qm1pQgO.png" group-title="电影",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影",CHC动作电影
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[240e:389:1003:e600::1]:4022/udp/239.45.0.41:5140
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影",CHC家庭影院
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[240e:389:1003:e600::1]:4022/udp/239.45.0.40:5140
+#EXTINF:-1 group-title="影视" tvg-logo="",tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo=''" group-title="电影"
+http://[240e:389:1003:e600::1]:4022/udp/239.45.0.42:5140
 #EXTINF:-1, tvg-id="华语电影HD" tvg-name="华语电影HD" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%8E%E8%AF%AD%E5%BD%B1%E9%99%A2.png" group-title="电影",华语影院
 https://live.metshop.top/bestv.php?id=hyyy8m/8000000
 #EXTINF:-1,tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://epg.112114.xyz/logo/%E6%98%9F%E5%85%89%E5%BD%B1%E9%99%A2.png" group-title="电影",星光影院
