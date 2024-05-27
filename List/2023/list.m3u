@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml,https://epg.112114.xyz/pp.xml
 #EXTINF:-1, tvg-id="五星体育频道" tvg-name="五星体育频道" tvg-logo="https://epg.112114.xyz/logo/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93.png" group-title="上海",五星体育 HD
 http://[240e:389:1003:e600::1]:4022/udp/239.45.3.210:5140
+
+#EXTINF:-1, tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%83%E5%BD%A9%E6%88%8F%E5%89%A7.png" group-title="上海",七彩戏剧 HD
+http://[240e:389:1003:e600::1]:4022/udp/239.45.0.16:5140
+
 #EXTINF:-1, tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2.png" group-title="体育",劲爆体育频道
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 
@@ -89,15 +93,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3
 http://[2409:8087:1e03:21::10]:6610/cms001/ch00000090990000001230/index.m3u8?
 #EXTINF:-1, tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://epg.112114.xyz/logo/%E7%9C%8B%E5%A4%A9%E4%B8%8B%E7%B2%BE%E9%80%89.png" group-title="新闻",看天下精选
 https://live.metshop.top/bestv.php?id=ktxjx8m/8000000
-
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",浙江卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",湖南卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",山东卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="卫视",安徽卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NHK日本.png" group-title="国际",NHK世界
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -433,8 +428,6 @@ http://[2409:8087:1e03:21::10]:6610/cms001/ch00000090990000001359/index.m3u8?
 http://[240e:389:1003:e600::1]:4022/udp/239.45.0.9:5140
 #EXTINF:-1, tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2%E5%8F%B0.png" group-title="上海",教育频道 HD
 http://[240e:389:1003:e600::1]:4022/udp/239.45.0.13:5140
-#EXTINF:-1, tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%83%E5%BD%A9%E6%88%8F%E5%89%A7.png" group-title="上海",七彩戏剧 HD
-http://[240e:389:1003:e600::1]:4022/udp/239.45.0.16:5140
 #EXTINF:-1, tvg-id="东方财经" tvg-name="东方财经" tvg-logo="" group-title="上海",东方财经 HD
 http://[240e:389:1003:e600::1]:4022/udp/239.45.0.17:5140
 #EXTINF:-1, tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA.png" group-title="上海",欢笑剧场 4K
