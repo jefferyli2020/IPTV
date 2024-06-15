@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml,https://epg.112114.xyz/pp.xml
-#EXTINF:-1, tvg-id="五星体育" tvg-name="五星体育频道" tvg-logo="https://epg.112114.xyz/logo/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93.png" group-title="上海",五星体育 HD
+#EXTINF:-1, tvg-id="1987" tvg-name="五星体育频道" tvg-logo="https://epg.112114.xyz/logo/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93.png" group-title="上海",五星体育 HD
 http://[240e:38a:1572:600::1]:4022/udp/239.45.3.210:5140
 
 #EXTINF:-1, tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%83%E5%BD%A9%E6%88%8F%E5%89%A7.png" group-title="上海",七彩戏剧 HD
