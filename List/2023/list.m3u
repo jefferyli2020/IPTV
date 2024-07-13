@@ -3,10 +3,10 @@
 http://[240e:38a:154b:9e00::1]:4022/udp/239.45.3.210:5140
 
 #EXTINF:-1, tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%83%E5%BD%A9%E6%88%8F%E5%89%A7.png" group-title="上海",七彩戏剧 HD
-http://[240e:38a:1572:600::1]:4022/udp/239.45.0.16:5140
+http://[240e:38a:154b:9e00::1]:4022/udp/239.45.0.16:5140
 
 #EXTINF:-1, tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV 5 HD
-http://[240e:38a:1572:600::1]:4022/udp/239.45.1.69:5140
+http://[240e:38a:154b:9e00::1]:4022/udp/239.45.1.69:5140
 #EXTINF:-1, tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5%2B.png" group-title="央视",CCTV 5+ HD
 http://[240e:38a:1572:600::1]:4022/udp/239.45.0.34:5140
 #EXTINF:-1, tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV 16 4K
