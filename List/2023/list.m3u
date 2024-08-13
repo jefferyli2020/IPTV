@@ -403,7 +403,7 @@ http://[240e:38a:154b:9e00::1]:4022/udp/239.45.0.13:5140
 http://[240e:38a:154b:9e00::1]:4022/udp/239.45.0.17:5140
 #EXTINF:-1, tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA.png" group-title="上海",欢笑剧场 4K
 http://[240e:38a:154b:9e00::1]:4022/udp/239.45.1.4:5140
-#EXTINF:-1, tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA.png" group-title="上海",欢笑剧场 4K
+#EXTINF:-1, tvg-id="欢笑剧场" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视 HD
 http://[240e:38a:154b:9e00::1]:4022/udp/239.45.1.23:5140
 #EXTINF:-1, tvg-id="游戏风云 HD" tvg-name="游戏风云 HD" tvg-logo="" group-title="上海",游戏风云 HD
 http://[240e:38a:154b:9e00::1]:4022/udp/239.45.3.131:5140
