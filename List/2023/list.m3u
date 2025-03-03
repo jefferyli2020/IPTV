@@ -4,7 +4,7 @@
 http://[240e:388:5f1b:5300::1]:4022/udp/239.45.3.210:5140
 
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字频道",劲爆体育
-http://10.10.10.109:50001/TVOD/5000000002000029972/bestzb/index.m3u8$4M1080_百视通
+http://10.10.10.109:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 
 #EXTINF:-1, tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",group-title="上海",东方卫视 HD
 http://[240e:388:5f1b:5300::1]:4022/udp/239.45.3.61:5140
@@ -184,55 +184,120 @@ http://10.10.10.109:50001/TVOD/6000000002000032344/wasusyt/index.m3u8$8M1080_华
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="数字频道",求索生活
 http://10.10.10.109:50001/TVOD/6000000002000003382/wasusyt/index.m3u8$8M1080_华数
 
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字频道",魅力足球
+http://10.10.10.109:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000020000011528/FifastbLive/index.m3u8$8M1080_咪视通
+http://10.10.10.109:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000020000011529/FifastbLive/index.m3u8$8M1080_咪视通
+http://10.10.10.109:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000020000011530/FifastbLive/index.m3u8$8M1080_咪视通
+http://10.10.10.109:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000020000011531/FifastbLive/index.m3u8$8M1080_咪视通
+http://10.10.10.109:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000000097/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000002019/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000002809/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000003915/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000004193/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000006077/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000006658/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000009788/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000010833/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000011297/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000011518/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000012558/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000012616/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000015470/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000015560/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000017678/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000019839/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000021904/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000023434/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000025380/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000027691/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
-http://10.10.10.109:50001/TVOD/3000000010000031669/FifastbLive/index.m3u8$5M1080_咪视通
+http://10.10.10.109:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/2000000003000000063.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/2000000003000000064.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/1000000006000270003.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="IPV6·咪咕" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg",咪咕直播
+http://10.10.10.109:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
