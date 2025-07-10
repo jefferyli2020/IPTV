@@ -4,7 +4,7 @@
 http://[240e:b8f:740:2200::1]:4022/udp/239.45.3.210:5140
 
 #EXTINF:-1, tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",group-title="上海",东方卫视 HD
-http://[240e:b8f:740:2200::1]:4022/udp/239.45.3.61:5140
+http://[240e:b8f:740:2200::1]:4022/udp/239.45.3.146:5140
 #EXTINF:-1, tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png",group-title="上海",新闻综合 HD
 http://[240e:b8f:740:2200::1]:4022/udp/239.45.3.209:5140
 #EXTINF:-1, tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png",group-title="上海",都市频道 HD
@@ -40,7 +40,7 @@ http://[240e:b8f:740:2200::1]:4022/udp/239.45.3.107:5140
 #EXTINF:-1, tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv.png",group-title="BesTV",BesTV 4K 测试
 http://[240e:b8f:740:2200::1]:4022/udp/239.45.1.108:5140
 #EXTINF:-1, tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",group-title="CCTV",CCTV 1 综合 HD
-http://[240e:b8f:740:2200::1]:4022/udp/239.45.3.51:5140
+http://[240e:b8f:740:2200::1]:4022/udp/239.45.3.88:5140
 #EXTINF:-1, tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",group-title="CCTV",CCTV 2 HD
 http://[240e:b8f:740:2200::1]:4022/udp/239.45.0.1:5140
 #EXTINF:-1, tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",group-title="CCTV",CCTV 3 综艺 HD
@@ -111,8 +111,8 @@ http://[240e:b8f:740:2200::1]:4022/udp/239.45.0.9:5140
 http://[240e:b8f:740:2200::1]:4022/udp/239.45.0.17:5140
 #EXTINF:-1, tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png",group-title="上海",哈哈炫动 HD
 http://[240e:b8f:740:2200::1]:4022/udp/239.45.1.55:5140
-#EXTINF:-1, tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv.png",group-title="BesTV",BesTV Demo HD
-http://[240e:b8f:740:2200::1]:4022/udp/239.45.3.54:5140
+#EXTINF:-1, tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png",group-title="卫视",睛彩竞技
+http://[240e:b8f:740:2200::1]:4022/udp/239.45.3.53:5140
 #EXTINF:-1, tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv.png",group-title="BesTV",BesTV Demo HD
 http://[240e:b8f:740:2200::1]:4022/udp/239.45.3.55:5140
 #EXTINF:-1, tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv.png",group-title="BesTV",BesTV Demo HD
@@ -130,7 +130,9 @@ http://[240e:b8f:740:2200::1]:4022/udp/239.45.3.137:5140
 #EXTINF:-1, tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv.png",group-title="BesTV",BesTV Live HD
 http://[240e:b8f:740:2200::1]:4022/udp/239.45.3.138:5140
 #EXTINF:-1, tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv.png",group-title="BesTV",BesTV Demo HD
-http://[240e:b8f:740:2200::1]:4022/udp/239.45.3.53:5140
+http://[240e:b8f:740:2200::1]:4022/udp/239.45.3.54:5140
+#EXTINF:-1, tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv.png",group-title="BesTV",BesTV Demo HD
+http://[240e:b8f:740:2200::1]:4022/udp/239.45.3.215:5140
 #EXTINF:-1, tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv.png",group-title="BesTV",BesTV HD
 http://[240e:b8f:740:2200::1]:4022/udp/239.45.1.29:5140
 #EXTINF:-1, tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv.png",group-title="BesTV",BesTV
