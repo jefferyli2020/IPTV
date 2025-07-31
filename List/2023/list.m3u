@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/jefferyli2020/tv-schedule-auto/refs/heads/main/epg.xml"
 
 #EXTINF:-1, tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",group-title="上海",五星体育 HD
 http://30.170.100.64:4022/udp/239.45.3.210:5140
