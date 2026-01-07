@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/jefferyli2020/tv-schedule-auto/refs/heads/main/epg.xml"
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1, tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",group-title="卫视",东方卫视 4K
-http://30.170.100.64:4022/udp/233.18.204.224:5140
+#EXTINF:-1, tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",group-title="上海",东方卫视 HD
+http://30.170.100.64:4022/udp/233.18.204.51:5140
 #EXTINF:-1, tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/新闻综合.png",group-title="上海",新闻综合 HD
 http://30.170.100.64:4022/udp/233.18.204.57:5140
 #EXTINF:-1, tvg-name="都市频道" tvg-logo="https://live.fanmingming.com/tv/都市频道.png",group-title="上海",都市频道 HD
@@ -153,9 +153,8 @@ http://30.170.100.64:4022/udp/233.18.204.226:5140
 http://30.170.100.64:4022/udp/233.18.204.229:5140
 #EXTINF:-1, tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",group-title="卫视",深圳卫视 4K
 http://30.170.100.64:4022/udp/233.18.204.219:5140
-
-#EXTINF:-1, tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png",group-title="纪实",纪实科教 HD
-http://30.170.100.64:4022/udp/239.45.1.14:5140
+#EXTINF:-1, tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",group-title="卫视",东方卫视 4K
+http://30.170.100.64:4022/udp/233.18.204.224:5140
 
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="国际",CNA新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
