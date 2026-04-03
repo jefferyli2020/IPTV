@@ -71,6 +71,14 @@ http://30.170.100.64:4022/udp/233.18.204.159:5140
 http://30.170.100.64:4022/udp/233.18.204.161:5140
 #EXTINF:-1, tvg-name="BstTV Live" tvg-logo="https://live.fanmingming.com/tv/BstTV Live.png",group-title="上海",BstTV Live HD
 http://30.170.100.64:4022/udp/233.18.204.167:5140
+
+#EXTINF:-1 tvg-id="BesTV4k动画" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/BesTV4k动画.png" group-title="百世通",BesTV4k动画
+http://30.170.100.64:4022/udp/233.18.204.171:5140
+#EXTINF:-1 tvg-id="BesTV4k电影" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/BesTV4k电影.png" group-title="百世通",BesTV4k电影
+http://30.170.100.64:4022/udp/233.18.204.169:5140
+#EXTINF:-1 tvg-id="BesTV4k记录" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/BesTV4k记录.png" group-title="百世通",BesTV4k记录
+http:/30.170.100.64:4022/udp/233.18.204.170:5140
+
 #EXTINF:-1, tvg-name="CCTV 4K" tvg-logo="https://live.fanmingming.com/tv/CCTV 4K.png",group-title="CCTV",CCTV 4K 4K
 http://30.170.100.64:4022/udp/233.18.204.188:5140
 #EXTINF:-1, tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",group-title="CCTV",CCTV1 HD
@@ -139,21 +147,23 @@ http://30.170.100.64:4022/udp/233.18.204.109:5140
 http://30.170.100.64:4022/udp/233.18.204.54:5140
 #EXTINF:-1, tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png",group-title="动漫",金鹰卡通 HD
 http://30.170.100.64:4022/udp/233.18.204.113:5140
-#EXTINF:-1, tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",group-title="卫视",北京卫视 4K
+#EXTINF:-1, tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/北京卫视4K.png",group-title="卫视",北京卫视 4K
 http://30.170.100.64:4022/udp/233.18.204.209:5140
-#EXTINF:-1, tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",group-title="卫视",四川卫视 4K
+#EXTINF:-1, tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/四川卫视4K.png",group-title="卫视",四川卫视 4K
 http://30.170.100.64:4022/udp/233.18.204.225:5140
-#EXTINF:-1, tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",group-title="卫视",山东卫视 4K
+#EXTINF:-1, tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/山东卫视4K.png",group-title="卫视",山东卫视 4K
 http://30.170.100.64:4022/udp/233.18.204.228:5140
-#EXTINF:-1, tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",group-title="卫视",广东卫视 4K
+#EXTINF:-1, tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/广东卫视4K.png",group-title="卫视",广东卫视 4K
 http://30.170.100.64:4022/udp/233.18.204.218:5140
-#EXTINF:-1, tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",group-title="卫视",江苏卫视 4K
+#EXTINF:-1, tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/江苏卫视4K.png",group-title="卫视",江苏卫视 4K
 http://30.170.100.64:4022/udp/233.18.204.226:5140
-#EXTINF:-1, tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",group-title="卫视",浙江卫视 4K
+#EXTINF:-1, tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/浙江卫视4K.png",group-title="卫视",浙江卫视 4K
 http://30.170.100.64:4022/udp/233.18.204.229:5140
-#EXTINF:-1, tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",group-title="卫视",深圳卫视 4K
+#EXTINF:-1, tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/深圳卫视4K.png",group-title="卫视",深圳卫视 4K
 http://30.170.100.64:4022/udp/233.18.204.219:5140
-#EXTINF:-1, tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",group-title="卫视",东方卫视 4K
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/湖南卫视4K.png" group-title="卫视",湖南卫视4K
+http://30.170.100.64:4022/udp/233.18.204.227:5140
+#EXTINF:-1, tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/东方卫视4K.png",group-title="卫视",东方卫视 4K
 http://30.170.100.64:4022/udp/233.18.204.224:5140
 
 #EXTINF:-1 group-title="新闻" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128061049622730_55.png",凤凰中文
