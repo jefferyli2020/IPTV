@@ -38,13 +38,13 @@ http://30.170.100.64:4022/udp/233.18.204.48:5140
 http://30.170.100.64:4022/udp/233.18.204.63:5140
 #EXTINF:-1, tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png",group-title="影视",东方财经 HD
 http://30.170.100.64:4022/udp/233.18.204.65:5140
-#EXTINF:-1, tvg-name="东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png",group-title="购物",东方购物 4K
+#EXTINF:-1, tvg-name="东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png",group-title="购物",东方购物 HD
 http://30.170.100.64:4022/udp/233.18.204.61:5140
-#EXTINF:-1, tvg-name="东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png",group-title="购物",东方购物 4K
+#EXTINF:-1, tvg-name="东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png",group-title="购物",东方购物 HD
 http://30.170.100.64:4022/udp/233.18.204.62:5140
 #EXTINF:-1, tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png",group-title="生活",法治天地 HD
 http://30.170.100.64:4022/udp/233.18.204.49:5140
-#EXTINF:-1, tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png",group-title="财经",第一财经 4K
+#EXTINF:-1, tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png",group-title="财经",第一财经 HD
 http://30.170.100.64:4022/udp/233.18.204.59:5140
 #EXTINF:-1, tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png",group-title="生活",金色学堂 HD
 http://30.170.100.64:4022/udp/233.18.204.66:5140
