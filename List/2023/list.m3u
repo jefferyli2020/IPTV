@@ -72,13 +72,6 @@ http://30.170.100.64:4022/udp/233.18.204.161:5140
 #EXTINF:-1 group-title="百世通" tvg-name="BesTV Live" tvg-logo="https://live.fanmingming.com/tv/BesTV Live.png",BesTV Live HD
 http://30.170.100.64:4022/udp/233.18.204.167:5140
 
-#EXTINF:-1 group-title="百世通" tvg-id="BesTV4k动画" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",BesTV4k动画
-http://30.170.100.64:4022/udp/233.18.204.171:5140
-#EXTINF:-1 group-title="百世通" tvg-id="BesTV4k电影" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",BesTV4k电影
-http://30.170.100.64:4022/udp/233.18.204.169:5140
-#EXTINF:-1 group-title="百世通" tvg-id="BesTV4k记录" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",BesTV4k记录
-http:/30.170.100.64:4022/udp/233.18.204.170:5140
-
 #EXTINF:-1 group-title="CCTV" tvg-name="CCTV 4K" tvg-logo="https://live.fanmingming.com/tv/CCTV 4K.png",CCTV 4K 4K
 http://30.170.100.64:4022/udp/233.18.204.188:5140
 #EXTINF:-1 group-title="CCTV" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1 HD
