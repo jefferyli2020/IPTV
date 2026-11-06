@@ -3,9 +3,9 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视 HD
 http://30.170.100.64:4022/udp/233.18.204.51:5140
-#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/新闻综合.png",新闻综合 HD
+#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png",新闻综合 HD
 http://30.170.100.64:4022/udp/233.18.204.57:5140
-#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/都市频道.png",都市频道 HD
+#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/上海都市.png",都市频道 HD
 http://30.170.100.64:4022/udp/233.18.204.53:5140
 #EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育 HD
 http://30.170.100.64:4022/udp/233.18.204.58:5140
@@ -47,36 +47,36 @@ http://30.170.100.64:4022/udp/233.18.204.63:5140
 http://30.170.100.64:4022/udp/233.18.204.65:5140
 #EXTINF:-1 group-title="生活" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png",金色学堂 HD
 http://30.170.100.64:4022/udp/233.18.204.66:5140
-#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/BstTV.png",BstTV HD
-http://30.170.100.64:4022/udp/233.18.204.116:5140
-#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/BstTV.png",BstTV HD
-http://30.170.100.64:4022/udp/233.18.204.160:5140
-#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/BstTV.png",BstTV HD
-http://30.170.100.64:4022/udp/233.18.204.162:5140
-#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/BstTV.png",BstTV HD
-http://30.170.100.64:4022/udp/233.18.204.163:5140
-#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/BstTV.png",BstTV HD
-http://30.170.100.64:4022/udp/233.18.204.164:5140
-#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/BstTV.png",BstTV HD
-http://30.170.100.64:4022/udp/233.18.204.165:5140
-#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/BstTV.png",BstTV HD
-http://30.170.100.64:4022/udp/233.18.204.166:5140
-#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/天翼高清.png",天翼高清 4K
-http://30.170.100.64:4022/udp/233.18.204.201:5140
-#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/BstTV Live.png",BstTV Live HD
-http://30.170.100.64:4022/udp/233.18.204.158:5140
-#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/BstTV Live.png",BstTV Live HD
-http://30.170.100.64:4022/udp/233.18.204.159:5140
-#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/BstTV Live.png",BstTV Live HD
-http://30.170.100.64:4022/udp/233.18.204.161:5140
-#EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/BstTV Live.png",BstTV Live HD
-http://30.170.100.64:4022/udp/233.18.204.167:5140
 
-#EXTINF:-1 group-title="百世通" tvg-id="BesTV4k动画" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/BesTV4k动画.png",BesTV4k动画
+#EXTINF:-1 group-title="百世通" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",BesTV HD
+http://30.170.100.64:4022/udp/233.18.204.116:5140
+#EXTINF:-1 group-title="百世通" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",BesTV HD
+http://30.170.100.64:4022/udp/233.18.204.160:5140
+#EXTINF:-1 group-title="百世通" tvg-logo"="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",BesTV HD
+http://30.170.100.64:4022/udp/233.18.204.162:5140
+#EXTINF:-1 group-title="百世通" tvg-logo"="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",BesTV HD
+http://30.170.100.64:4022/udp/233.18.204.163:5140
+#EXTINF:-1 group-title="百世通" tvg-logo"="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",BesTV HD
+http://30.170.100.64:4022/udp/233.18.204.164:5140
+#EXTINF:-1 group-title="百世通" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",BesTV HD
+http://30.170.100.64:4022/udp/233.18.204.165:5140
+#EXTINF:-1 group-title="百世通" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",BesTV HD
+http://30.170.100.64:4022/udp/233.18.204.166:5140
+#EXTINF:-1 group-title="百世通" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",天翼高清 4K
+http://30.170.100.64:4022/udp/233.18.204.201:5140
+#EXTINF:-1 group-title="百世通" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",BesTV Live HD
+http://30.170.100.64:4022/udp/233.18.204.158:5140
+#EXTINF:-1 group-title="百世通" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",BesTV Live HD
+http://30.170.100.64:4022/udp/233.18.204.159:5140
+#EXTINF:-1 group-title="百世通" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",BesTV Live HD
+http://30.170.100.64:4022/udp/233.18.204.161:5140
+#EXTINF:-1 group-title="百世通" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",BesTV Live HD
+http://30.170.100.64:4022/udp/233.18.204.167:5140
+#EXTINF:-1 group-title="百世通" tvg-id="BesTV4k动画" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",BesTV4k动画
 http://30.170.100.64:4022/udp/233.18.204.171:5140
-#EXTINF:-1 group-title="百世通" tvg-id="BesTV4k电影" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/BesTV4k电影.png",BesTV4k电影
+#EXTINF:-1 group-title="百世通" tvg-id="BesTV4k电影" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",BesTV4k电影
 http://30.170.100.64:4022/udp/233.18.204.169:5140
-#EXTINF:-1 group-title="百世通" tvg-id="BesTV4k记录" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/BesTV4k记录.png",BesTV4k记录
+#EXTINF:-1 group-title="百世通" tvg-id="BesTV4k记录" tvg-logo="https://bb-media.com/wp-content/uploads/2025/02/Bestv.png",BesTV4k记录
 http:/30.170.100.64:4022/udp/233.18.204.170:5140
 
 #EXTINF:-1 group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV 4K.png",CCTV 4K 4K
@@ -186,7 +186,7 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="新闻",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1,group-title="新闻" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" BBC America
+#EXTINF:-1 group-title="新闻" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" BBC America
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 #EXTINF:-1 group-title="新闻" tvg-id="SkyNewsInternational.uk" tvg-name="Sky News International" tvg-logo="https://live.fanmingming.com/tv/SkyNews.png",Sky News International
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
