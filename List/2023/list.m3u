@@ -14,7 +14,7 @@ http://30.170.100.64:4022/udp/233.18.204.58:5140
 http://30.170.100.64:4022/udp/233.18.204.45:5140
 #EXTINF:-1 group-title="生活" tvg-logo="https://live.fanmingming.com/tv/乐游.png",乐游 HD
 http://30.170.100.64:4022/udp/233.18.204.47:5140
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png",金鹰纪实 HD
+#EXTINF:-1 group-title="生活" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png",金鹰纪实 HD
 http://30.170.100.64:4022/udp/233.18.204.104:5140
 #EXTINF:-1 group-title="影视" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场 HD
 http://30.170.100.64:4022/udp/233.18.204.48:5140
