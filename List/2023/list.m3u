@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/jefferyli2020/tv-schedule-auto/refs/heads/main/epg.xml"
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml"
 
 #EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视 HD
 http://30.170.100.64:4022/udp/233.18.204.51:5140
